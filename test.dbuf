@@ -1,0 +1,5 @@
+message User {
+  id Int;
+  name String;
+  isActive Bool;
+}
